@@ -1,4 +1,4 @@
-# Scripting for Data Analysis Spotify Popularity
+# Spotify Popularity and Audio Features Analysis
 
 This is an analysis on a Kaggle Dataset called Spotify Audio Features, where I analyze the relationships between the included popularity score and the audio features to identify any common patterns. In addition, I webscrape Billboard's Hot 100 to validate the popularity score using the 100 most popular songs. Finally, I use five different classification methods to try and predict a track's popularity type. 
 
